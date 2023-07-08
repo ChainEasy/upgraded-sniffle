@@ -6,7 +6,7 @@
 const nextConfig = {
   output: 'export',
 // basePath: '/gh-pages-test',
-basePath: 'ChainEasy/upgraded-sniffle',
+basePath: '/upgraded-sniffle',
 }
 
 module.exports = nextConfig
